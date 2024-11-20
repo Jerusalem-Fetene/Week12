@@ -1,0 +1,5 @@
+[core]
+    remote = week3
+    autostage = true
+['remote "week3"']
+    url = https://github.com/Jerusalem-Fetene/Week3/tree/Task-1/.dvc
